@@ -1,0 +1,228 @@
+Georgia Data:
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">District Name</th>
+<th title="Field #2">Population</th>
+<th title="Field #3">Error in %</th>
+</tr></thead>
+<tbody><tr>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>District 1</td>
+<td>799K</td>
+<td>-0.054%</td>
+</tr>
+<tr>
+<td>District 2</td>
+<td>798K</td>
+<td>+0.071%</td>
+</tr>
+<tr>
+<td>District 3</td>
+<td>798K</td>
+<td>+0.071%</td>
+</tr>
+<tr>
+<td>District 4</td>
+<td>799K</td>
+<td>-0.054%</td>
+</tr>
+<tr>
+<td>District 5</td>
+<td>798K</td>
+<td>+0.071%</td>
+</tr>
+<tr>
+<td>District 6</td>
+<td>799K</td>
+<td>-0.054%</td>
+</tr>
+<tr>
+<td>District 7</td>
+<td>801K</td>
+<td>-0.304%</td>
+</tr>
+<tr>
+<td>District 8</td>
+<td>798K</td>
+<td>+0.071%</td>
+</tr>
+<tr>
+<td>District 9</td>
+<td>798K</td>
+<td>+0.071%</td>
+</tr>
+<tr>
+<td>District 10</td>
+<td>798K</td>
+<td>+0.071%</td>
+</tr>
+<tr>
+<td>District 11</td>
+<td>798K</td>
+<td>+0.071%</td>
+</tr>
+<tr>
+<td>District 12</td>
+<td>798K</td>
+<td>+0.071%</td>
+</tr>
+<tr>
+<td>District 13</td>
+<td>799K</td>
+<td>-0.054%</td>
+</tr>
+<tr>
+<td>District 14</td>
+<td>799K</td>
+<td>+0.054%</td>
+</tr>
+</tbody></table>
+
+
+Louisiana Data:
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">District Name</th>
+<th title="Field #2">Population</th>
+<th title="Field #3">Error in %</th>
+</tr></thead>
+<tbody><tr>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>District 1</td>
+<td>767K</td>
+<td>+0.087%</td>
+</tr>
+<tr>
+<td>District 2</td>
+<td>766K</td>
+<td>-0.043%</td>
+</tr>
+<tr>
+<td>District 3</td>
+<td>767K</td>
+<td>+0.087%</td>
+</tr>
+<tr>
+<td>District 4</td>
+<td>767K</td>
+<td>+0.087%</td>
+</tr>
+<tr>
+<td>District 5</td>
+<td>765K</td>
+<td>-0.174%</td>
+</tr>
+<tr>
+<td>District 6</td>
+<td>766K</td>
+<td>-0.043%</td>
+</tr>
+</tbody></table>
+
+IllinoisData:
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">District</th>
+<th title="Field #2">Population</th>
+<th title="Field #3">Error in %</th>
+</tr></thead>
+<tbody><tr>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>District 1</td>
+<td>687K</td>
+<td>-0.866%</td>
+</tr>
+<tr>
+<td>District 2</td>
+<td>698K</td>
+<td>+0.722%</td>
+</tr>
+<tr>
+<td>District 3</td>
+<td>688K</td>
+<td>-0.722%</td>
+</tr>
+<tr>
+<td>District 4</td>
+<td>699K</td>
+<td>+0.866%</td>
+</tr>
+<tr>
+<td>District 5</td>
+<td>696K</td>
+<td>+0.433%</td>
+</tr>
+<tr>
+<td>District 6</td>
+<td>698K</td>
+<td>+0.722%</td>
+</tr>
+<tr>
+<td>District 7</td>
+<td>684K</td>
+<td>-1.299%</td>
+</tr>
+<tr>
+<td>District 8</td>
+<td>698K</td>
+<td>+0.722 %</td>
+</tr>
+<tr>
+<td>District 9</td>
+<td>693K</td>
+<td>+0.000</td>
+</tr>
+<tr>
+<td>District 10</td>
+<td>691K</td>
+<td>-0.289%</td>
+</tr>
+<tr>
+<td>District 11</td>
+<td>696K</td>
+<td>+0.433%</td>
+</tr>
+<tr>
+<td>District 12</td>
+<td>686K</td>
+<td>-1.010%</td>
+</tr>
+<tr>
+<td>District 13</td>
+<td>691K</td>
+<td>-0.289%</td>
+</tr>
+<tr>
+<td>District 14</td>
+<td>695K</td>
+<td>+0.289%</td>
+</tr>
+<tr>
+<td>District 15</td>
+<td>698K</td>
+<td>+0.722%</td>
+</tr>
+<tr>
+<td>District 16</td>
+<td>693K</td>
+<td>+0.000%</td>
+</tr>
+<tr>
+<td>District 17</td>
+<td>695K</td>
+<td>+0.289%</td>
+</tr>
+</tbody></table>
+
