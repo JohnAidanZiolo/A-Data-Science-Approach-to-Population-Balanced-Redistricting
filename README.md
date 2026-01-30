@@ -8,4 +8,4 @@ https://www.kaggle.com/code/aidanziolo/solving-gerrymandering-with-data-science
 
 The link to the website is here:
 
-https://thatundefinedguy.github.io/A-Data-Science-Approach-to-Population-Balaced-Redistricting/
+https://thatundefinedguy.github.io/A-Data-Science-Approach-to-Population-Balanced-Redistricting/
