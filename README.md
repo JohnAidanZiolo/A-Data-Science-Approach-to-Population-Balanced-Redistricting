@@ -19,6 +19,8 @@ This project was built independently as a learning exercise.
 
 The model produces districts with lower population variance compared to existing maps.
 
+Results can be found in src/[CONCEPT]solving-gerrymandering-with-data-science.ipynb.
+
 ## What I Learned
 
 - How clustering behaves on geographic data
@@ -32,11 +34,6 @@ The model produces districts with lower population variance compared to existing
 - Geometry is simplified
 - More advanced methods could improve results
 - Computationally expensive for larger states
-
-## How to Run
-
-pip install -r requirements.txt  
-python main.py
 
 ## Future Improvements
 
